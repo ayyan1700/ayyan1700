@@ -1,4 +1,5 @@
-![logo](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?t=st=1739097257~exp=1739100857~hmac=8237ae205c46e4a852acefff10cdc36aa30587db445fbe986fbce96bac525ca0&w=1380)
+![logo](<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/b667ba21-4ce7-418e-b088-efe709bc3d54" />
+)
 <h1 align="center">Hi 👋, I'm Syed Muhammad Ayyan</h1>
 <h3 align="center">computer science student from pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
