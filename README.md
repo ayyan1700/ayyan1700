@@ -10,7 +10,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [MinAndMart](https://ayyan1700.github.io/minandmart/)
-- 📫 How to reach me: **streamssolo@gmail.com**
+- 📫 How to reach me: **devayyan761@gmail.com**
 - ⚡ Fun fact: **I am funny 😄**
 
 ---
