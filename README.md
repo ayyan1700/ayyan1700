@@ -17,9 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/syed-ayyan-48b51239b" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/ayyan1700" target="_blank">GitHub</a> |
-  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a>
+<a href="https://www.linkedin.com/in/syed-ayyan-48b51239b" target="_blank">LinkedIn</a> |
+<a href="https://github.com/ayyan1700" target="_blank">GitHub</a> |
 </p>
 
 ---
