@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayyan1700&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [MinAndMart](https://ayyan1700.github.io/minandmart/)
+- 👨‍💻 All of my projects are available at https://ayyan1700.github.io/My-porfolio/
 - 📫 How to reach me: **devayyan761@gmail.com**
 - ⚡ Fun fact: **I am funny 😄**
 
